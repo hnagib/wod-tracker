@@ -4,6 +4,16 @@
 - 2 element day: Task priority; couplets 3-5 times for time
 - 3 element day: Time priority; triplets AMRAP 10-20 mins
 
+Warm up drills:
+- Cat/cow, t-spine, wrist
+- Banded shoulder activation
+- Push ups & plank balances
+- Banded glute bridge
+- Banded side front and side steps
+- Banded air squats
+- 90/90, Hip/Ham, Int./ext. rotations
+
+
 | Day | Modality | WOD                                                         |
 |-----|----------|-------------------------------------------------------------|
 | 1   | M        | Hike baden powel                                            |
