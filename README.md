@@ -7,7 +7,7 @@
 | Day | Modality | WOD                                                         |
 |-----|----------|-------------------------------------------------------------|
 | 1   | M        | Hike baden powel                                            |
-| 2   | GW       | 5x5 HSPU \n 5.5x5 BSS, 3RFT - 20 Push Up + 20 RKBS            |
+| 2   | GW       | 5x5 HSPU <br> 5.5x5 BSS, 3RFT - 20 Push Up + 20 RKBS            |
 | 3   | MGW      | 8x5 OHP, 20-15-10 Air Squats, Cals of row, Hang power clean |
 | 4   |          |                                                             |
 | 5   | G        |  |
