@@ -17,8 +17,8 @@ Warm up drills:
 | Day | Modality | WOD                                                         |
 |-----|----------|-------------------------------------------------------------|
 | 1   | M        | Hike baden powel                                            |
-| 2   | GW       | 5x5 HSPU<br>5.5x5 BSS<br>3RFT: 20 Push Up, 20 RKBS          |
-| 3   | MGW      | 5x5 Seated OHP<br>5.5x5 Dual KB RDL<br><br>20-15-10<br>Cals of row<br>Hang power clean 95lbs<br>Ab-mat sit ups|
+| 2   | GW       | 5x5 HSPU<br>5.5x5 BSS<br>3RFT: 20 Push Up, 20 Burpee box step over          |
+| 3   | MGW      | 8x5 Barbell Bent Over Row<br>8.8x5 Dual KB RDL<br><br>20-15-10<br>Cals of row<br>Hang power clean 95lbs<br>Ab-mat sit ups|
 | 4   |          |                                                             |
 | 5   | G        |  |
 | 6   | WM       |  |
