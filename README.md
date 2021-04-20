@@ -22,7 +22,7 @@ Warm up drills:
 | 4   |          |                                                             |
 | 5   | G        | HSPU & Box Pistol |
 | 6   | WM       | 8.8x5 Barbell Reverse Lungues<br>8.8x5 Bird dog rows<br><br>5 RFT: 12 Cals row, 12 floor press |
-| 7   | GWM      | 8.8x5 KB Bent Over Row<br>8x5 Nordic Hamstring Curl<br><br>AMRAP<br>6 KB front rack walking lung<br>12 cals of row<br>18 sit kicks|
+| 7   | GWM      | 8.8x5 KB Bent Over Row<br>8x5 Nordic Hamstring Curl<br><br>AMRAP 12 min<br>6 KB front rack walking lung<br>12 cals of row<br>18 sit kicks|
 | 8   |          |  |
 | 9   | W        |  |
 | 10  | MG       |  |
