@@ -29,11 +29,11 @@ Muscle Groups:
 
 | Day | Group    | WOD                                                         |
 |-----|----------|-------------------------------------------------------------|
-| 1   | L -- KH  | Bulgarian SS<br> Farmers Carry                  <br> 500m X 3 row |
-| 2   | SA - KH  | KB one arm press<br> Bi curl<br> tri ext<br> mtn clm  <br> stairs x 3   |
-| 3   | CB - KH  | 20 pu<br> 15 abmat<br> 10 inverted rows X 10       <br> 250m x 10 row|
-| 4   | H        |                                                   stairs x 6   |
-| 5   | CBSA     | 5x3 BP<br> 8x3 BD row<br> 8x3 HSPU<br> Bi & forearm curl             |
+| 1   | L -- KH  | 8.8x5 Bulgarian Split Squat <br> Farmers Carry <br><br> 500m X 3 row |
+| 2   | SA - KH  | 8.8x5 SA KB OHP <br> 8x5 Bicep curl<br> 8x5 Tricep extions <br> 20 Mountain climbers <br><br> Stairs x 3   |
+| 3   | CB - KH  | 10 Rounds: <br> 20 Push ups <br> 15 abmat situps <br> 10 inverted rows <br><br> 250m x 10 row |
+| 4   | L -- KH  | 8.8x5 SL RDLs <br> 20 Ab twists <br><br> stairs x 6 |
+| 5   | CBSA     | 5x3 Bench Press <br> 8.8x3 Bird Dog Rows row <br> 8x3 HSPU<br> Bicep & forearm curls |
 | 6   |          |                                                             |
 | 7   |          |                                                             |
 
