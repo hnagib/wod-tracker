@@ -33,9 +33,19 @@ Muscle Groups:
 | 2   | SA - KH  | 8.8x5 SA KB OHP <br> 8x5 Bicep curl<br> 8x5 Tricep extions <br> 20 Mountain climbers <br><br> Stairs x 3   |
 | 3   | CB - KH  | 10 Rounds: <br> 20 Push ups <br> 15 abmat situps <br> 10 inverted rows <br><br> 250m x 10 row |
 | 4   | L -- KH  | 8.8x5 SL RDLs <br> 20 Ab twists <br><br> stairs x 6 |
-| 5   | CBSA     | 5x3 Bench Press <br> 8.8x3 Bird Dog Rows row <br> 8x3 HSPU<br> Bicep & forearm curls |
+| 5   | SACB     | 5x3 Bench Press <br> 8.8x3 Bird Dog Rows row <br> 8x3 HSPU<br> Bicep & forearm curls |
 | 6   |          |                                                             |
 | 7   |          |                                                             |
+
+5 week pattern: 
+
+|M|T|W|T|F|S|S|
+|-|-|-|-|-|-|-|
+|L|SA|CB|L|SACB| | |
+|B|LS|AC|B|LSAC| | |
+|C|BL|SA|C|BLSA| | |
+|A|CB|LS|A|CBLS| | |
+|S|AC|BL|S|ACBL| | |
 
 
 | Day | Modality | WOD                                                         |
