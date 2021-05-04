@@ -1,22 +1,16 @@
-# WOD Tracker
+# Generic program
 
-- 1 element day: Element priority
-- 2 element day: Task priority; couplets 3-5 times for time
-- 3 element day: Time priority; triplets AMRAP 10-20 mins
-
-Modalities:
-- M: Monostructural metcon
-- W: Weight lifting
-- G: Gymnastics
-
-Warm up drills:
-- Cat/cow, t-spine, wrist
-- Banded shoulder activation
-- Push ups & plank balances
-- Banded glute bridge
+Warm up routine:
+- Cat/cow, hip swing
+- Bird dog, dead bug
+- T-spine rot, runners stretch 
+- Wrist mobilization
+- Banded shoulder activations 
+- Push ups and/or plank balances
+- Banded glute bridge reps & hold
 - Banded side front and side steps
 - Banded air squats
-- 90/90, Hip/Ham, Int./ext. rotations
+- Int./ext. rotations, 90/90, X-leg 
 
 Muscle Groups:
 - C: Chest/Push
@@ -37,15 +31,27 @@ Muscle Groups:
 | 6   |          |                                                             |
 | 7   |          |                                                             |
 
-5 week pattern: 
+5-week pattern: 
 
-|M|T|W|T|F|S|S|
-|-|-|-|-|-|-|-|
-|L|SA|CB|L|SACB| | |
-|B|LS|AC|B|LSAC| | |
-|C|BL|SA|C|BLSA| | |
-|A|CB|LS|A|CBLS| | |
-|S|AC|BL|S|ACBL| | |
+|Mon |Tue |Wed |Thu |Fri |Sat |Sun   |
+|----|----|----|----|----|----|------|
+|    | L  | SA | CB |    | L  | SACB | 
+|    | B  | LS | AC |    | B  | LSAC | 
+|    | C  | BL | SA |    | C  | BLSA | 
+|    | A  | CB | LS |    | A  | CBLS | 
+|    | S  | AC | BL |    | S  | ACBL | 
+
+
+# "Fast" aka Crossfit like program
+
+- 1 element day: Element priority
+- 2 element day: Task priority; couplets 3-5 times for time
+- 3 element day: Time priority; triplets AMRAP 10-20 mins
+
+Modalities:
+- M: Monostructural metcon
+- W: Weight lifting
+- G: Gymnastics
 
 
 | Day | Modality | WOD                                                         |
